@@ -1,0 +1,34 @@
+-------------
+[Nuevos mods]
+
+Portatilty
+Default Options
+Immersive Melodies
+Forgiving Void
+Reeves Furniture
+Rule Control
+What Did I Just Kill
+Ambient Sounds
+Tempad
+Nether Portal Fix
+Mine Menu
+Compact Help Command
+Death Backup
+Hearthstone Mod
+Aileron
+
+-------------------
+[Mods Actualizados]
+
+Collective
+The Vault
+Titanium
+
+-------------------
+[Cambios en investigaciones]
+
+Categoria Salmorejocraft ForFun eliminada
+Investigacion de WaterFrame cambiada a la categoria Salmorejocraft Core
+Nueva categoria: Salmorejocraft Transporte
+Agregadas nuevas investigaciones a Salmorejocraft Transporte
+Investigacion Waystone movida de la categoria QoL a la categoria Salmorejocraft Transporte 
