@@ -1,0 +1,4 @@
+-------------
+[Small fix]
+
+Fixed a bug with the new Herald's rock not including the Herald's Grace modifier
