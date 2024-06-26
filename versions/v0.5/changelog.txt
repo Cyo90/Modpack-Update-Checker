@@ -1,0 +1,50 @@
+-------------
+[Nuevos mods]
+
+Regions Unexplored
+LightMans Currency
+End Remastered
+Nullscape
+NoChatLag
+Incendium
+DontClearChatHistory
+Chat Heads
+Kotlin for Forge
+Create: Steam 'n Rails
+Create: Interiors
+Create: Deco
+Create: Slice and Dice
+Create: Ore Excavation
+Create: Ore Excavation Plus
+Create: Addition
+ComputerCraft Tweaked
+ComputerCraft for Vault
+Sound Physics Remastered
+Presence Footsteps
+World Edit
+Vault Hunter Sync Server Config
+More Minecarts
+Farmers Delight
+
+
+-------------------
+[Mods Actualizados]
+
+WaterFrames
+WaterMedia
+
+-------------------
+[Cambios en investigaciones]
+
+Nueva categoria: Create Extras 
+Nueva investigación Create: Slice and Dice añadida a la categoría Create Extras 
+Nueva investigación Create: Ore Excavation añadida a la categoría Create Extras 
+Nueva investigación Create: Ore Excavation Plus añadida a la categoría Create Extras 
+Nueva investigación Create: Addition añadida a la categoría Create Extras 
+Nueva investigación Steam 'n Rails añadida a la categoría Create Extras
+Nueva investigación Create: Interiors añadida a la categoría Salmorejocraft Deco&Build
+Nueva investigación Create: Deco añadida a la categoría Salmorejocraft Deco&Build
+Nueva investigación Farmer Delights añadida a la categoría Salmorejocraft Core
+Nueva investigación End Remastered añadida a la categoría Salmorejocraft Core
+Nueva investigación More Minecarts añadida a la categoría Salmorejocraft Transporte
+Nueva investigación ComputerCraft añadida a la categoría Handling
