@@ -25,6 +25,7 @@ World Edit
 Vault Hunter Sync Server Config
 More Minecarts
 Farmers Delight
+Modpack Update Checker
 
 
 -------------------
