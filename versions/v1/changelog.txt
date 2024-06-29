@@ -1,0 +1,19 @@
+Primera version estable que se usará en el servidor
+
+-------------
+[Nuevos mods]
+
+Minecolonies
+Domum Ornamentum
+Multi Piston
+
+-------------------
+[Mods Actualizados]
+
+Securitycraft
+
+-------------------
+[Cambios en investigaciones]
+
+Nueva investigación Create: Minecolonies añadida a la categoría Salmorejocraft Core
+Nueva investigación Domum Ornamentum añadida a la categoría Salmorejocraft Deco&Build
