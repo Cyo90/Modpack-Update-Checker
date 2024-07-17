@@ -7,6 +7,12 @@ Minecolonies
 Domum Ornamentum
 Multi Piston
 
+-------------
+[Mods eliminados]
+
+Incendium (problema de compatibilidad con vaults)
+Nullscape (problema de compatibilidad con vaults)
+
 -------------------
 [Mods Actualizados]
 
@@ -17,3 +23,9 @@ Securitycraft
 
 Nueva investigación Create: Minecolonies añadida a la categoría Salmorejocraft Core
 Nueva investigación Domum Ornamentum añadida a la categoría Salmorejocraft Deco&Build
+
+-------------------
+[Shaderpack añadidos]
+
+Bliss Shaders
+

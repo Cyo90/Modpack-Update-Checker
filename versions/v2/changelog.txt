@@ -1,0 +1,49 @@
+Versión 2 del modpack de Salmorejocraft
+
+-------------
+[Nuevos mods]
+
+Zing's Better Vault Tooltips
+Vaultar HUD
+Enhanced Gear, Inscription, and Jewel Tooltips
+Coin Pouch - Vault Hunters Addon
+Vault Curios Enhancements
+Copiously Fix
+Just Enough Vault Hunters
+Vault Chest Mining Slowdown Fix
+Daily Rewards
+Q-Coin
+
+-------------
+[Mods eliminados]
+
+Rule Control
+
+-------------------
+[Mods Actualizados]
+
+WaterMedia
+WaterFrames
+
+-------------------
+[Cambios en investigaciones]
+
+Coste de investigación de todos los mods de decoración reducido a 1
+La investigación de Building gadgets ya no afecta al coste de la categoría de Big Toys
+Las investigaciones de transporte ya no afectan al coste global
+
+-------------------
+[Shaderpack añadidos]
+
+Complementary Meets VH
+
+-------------------
+[Crafteos añadidos]
+
+Vault Rock x 9 = 1 Plunderer Rock
+Plunderer Rock x 9 = 1 Plunderer Crystal
+
+-------------------
+[Fixes]
+
+Money Mending tiene ahora coste de encantamiento
