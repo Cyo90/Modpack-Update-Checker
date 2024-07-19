@@ -1,0 +1,21 @@
+Versión 3 - Mejora de optimización, QoL y fixes
+
+-------------
+[Nuevos mods]
+
+Entity Culling
+Starlight
+Entity Collision FPS Fix
+Pluto
+Saturn
+Drawer FPS
+Oculus Flywheel Compatibility
+Stackrefill
+Step It Up
+
+-------------------
+[Fixes]
+
+Motor Flywheel cambiado a "Instancing"
+El HUD de Lightman's Currency ya no se solapa con la barra de maná y el tiempo restante de las Vaults
+El HUD de Simple Voice Chat ya no se solapa con la barra de maná

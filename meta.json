@@ -3,7 +3,7 @@
   "hotfixesFormat": null,
   "versions": [
       {
-        "id": "v2",
+        "id": "v3",
         "releasedAt": 1719010735,
         "updateType": "major"
       }
